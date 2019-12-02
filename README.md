@@ -5,21 +5,27 @@
 这是 vs2010 cpp dll项目
 
 
+```
 /*****************************************
   Description: OTP动态令牌: DLL/SO动态链接库
   Authod     : EXP | http://exp-blog.com
   Modify By  : None
   Date       : 2015-07-20
 ******************************************/
+```
+
 
 ===================================
+
 动态链接库（dll/so）编译构建方法.
 
 共需构建4个动态链接库:
-1.dt_otp_x86.dll(win)
-2.dt_otp_x64.dll(win)
-3.dt_otp_x86.so(linux)
-4.dt_otp_x64.so(linux)
+
+1. dt_otp_x86.dll(win)
+2. dt_otp_x64.dll(win)
+3. dt_otp_x86.so(linux)
+4. dt_otp_x64.so(linux)
+
 ===================================
 
 ```
